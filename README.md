@@ -9,8 +9,7 @@ URDF and simulation package for a rectangular differential drive robot equipped 
 
 cd ~/your_workspace_name/src 
 
-git clone https://github.com/kowsik16/differential_drive_robot_with_lidar.git
-
+git clone https://github.com/kowsik16/Differential-Drive-Robot-with-Depth-Camera-ROS-2-Jazzy.git
 ### Install Dependencies:
 
 sudo apt update && rosdep update
